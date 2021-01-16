@@ -42,8 +42,7 @@ Peak Date and peak hour are same for Female and Male
 
 Most common users are  male subscribers  and Thursday is the best day for biking
 
-
-
+![Screen Shot 2021-01-16 at 11 58 43 PM](https://user-images.githubusercontent.com/71739110/104816921-2f126380-5859-11eb-98f5-852dff3faf87.png)
 
 ## Top Start Stations 
 
