@@ -42,16 +42,29 @@ Peak Date and peak hour are same for Female and Male
 
 Most common users are  male subscribers  and Thursday is the best day for biking
 
+![Screen Shot 2021-01-16 at 11 58 43 PM](https://user-images.githubusercontent.com/71739110/104816585-228d0b80-5857-11eb-9d90-3b552dedf595.png)
+
+
 ## Top Start Stations 
 
 The most popular areas to start a riding is in mid and lower Manhattan
+
+![Screen Shot 2021-01-17 at 12 00 19 AM](https://user-images.githubusercontent.com/71739110/104816584-21f47500-5857-11eb-822c-15a7969513d4.png)
 
 ## Top End Stations 
 
 Due to the short riding, the most popular areas to end a riding is also in mid and lower Manhattan
 
+![Screen Shot 2021-01-17 at 12 00 22 AM](https://user-images.githubusercontent.com/71739110/104816583-215bde80-5857-11eb-8adc-f21ba023f47c.png)
+
+For a more in depth and interactive view of this analysis, checkout the Tableau link below
+
 [link to dashboard](https://public.tableau.com/profile/vita6702#!/vizhome/NYCCitiBikeAnalysis_16108106789110/NYCCitiBike?publish=yes)
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
+Based on the findings above, we have below conclusion to create a successful citi bike program in De Moines.
+
+1,Advertising should target men as they are the main user demographic
+2,Bikes should be positioned in the most popular areas
+3,In August the Peak date is Thursday and the Peak hour is 5 to7 pm, so we can charge more on Thursday from 5 to 7 pm
