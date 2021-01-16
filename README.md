@@ -24,15 +24,19 @@ In August The Peak  Biking Hour is 5 to 6 hours
 
 Males have the most riding hour
 
+![Screen Shot 2021-01-16 at 11 44 06 PM](https://user-images.githubusercontent.com/71739110/104816353-9af2cd00-5855-11eb-9853-005720964d12.png)
+
 ## Trips by Weekday for per Hour
 
 In August the Peak date is Thu and the Peak hour is 5 to7 pm
 
+![Screen Shot 2021-01-16 at 11 53 04 PM](https://user-images.githubusercontent.com/71739110/104816422-0177eb00-5856-11eb-8b54-cf6003febd06.png)
 
 ## Trips by Gender (Weekday per Hour)
 
 Peak Date and peak hour are same for Female and Male
 
+![Screen Shot 2021-01-16 at 11 55 09 PM](https://user-images.githubusercontent.com/71739110/104816456-4ef45800-5856-11eb-8e59-433e246c8e99.png)
 
 ## User Trips by Gender by Weekday
 
