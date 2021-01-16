@@ -16,6 +16,35 @@ To answer these questions I came up with the following visualizations.
 
 ## Check out time for user
 
+In August The Peak  Biking Hour is 5 to 6 hours
+
+![Screen Shot 2021-01-16 at 11 34 40 PM](https://user-images.githubusercontent.com/71739110/104816086-c4125e00-5853-11eb-930b-457dfe59fe94.png)
+
+## Checkout Times by Gender
+
+Males have the most riding hour
+
+## Trips by Weekday for per Hour
+
+In August the Peak date is Thu and the Peak hour is 5 to7 pm
+
+
+## Trips by Gender (Weekday per Hour)
+
+Peak Date and peak hour are same for Female and Male
+
+
+## User Trips by Gender by Weekday
+
+Most common users are  male subscribers  and Thursday is the best day for biking
+
+## Top Start Stations 
+
+The most popular areas to start a riding is in mid and lower Manhattan
+
+## Top End Stations 
+
+Due to the short riding, the most popular areas to end a riding is also in mid and lower Manhattan
 
 [link to dashboard](https://public.tableau.com/profile/vita6702#!/vizhome/NYCCitiBikeAnalysis_16108106789110/NYCCitiBike?publish=yes)
 
